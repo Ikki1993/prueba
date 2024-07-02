@@ -8,7 +8,7 @@ prueba viscode
 
 **HEY**
 
-[ESTO](https://C:\Users\Sistema\Desktop\Curso Gestion\prueba\Aprendiendo_Python)
+[ESTO](Aprendiendo_Python)
 
 F*FDFD*
 
